@@ -1,3 +1,3 @@
 # hello-world
 laboratory 
-this the brnached out read me file
+this the branched out read me file
